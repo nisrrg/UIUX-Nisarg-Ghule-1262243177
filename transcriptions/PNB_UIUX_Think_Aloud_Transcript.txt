@@ -1,0 +1,55 @@
+PNB Website UI/UX Comparison – Cleaned Transcription
+
+*Reviewers comparing Nisarg Ghule’s prototype with the original Punjab National Bank website*
+
+The following transcription has been edited for grammar, clarity, and obvious speech-to-text errors. The reviewers’ original opinions and key observations have been preserved.
+
+# Paraansh Nisar
+
+*PRN: 1272250941*
+
+Hi, my name is Paraansh Nisar, and I’m reviewing Nisarg Ghule’s website redesign for Punjab National Bank (PNB).
+
+The original PNB website looks very cluttered and has too many options and features, which can make it difficult to use, especially for older users. The customer-care page is also cluttered and may be difficult to navigate. The chatbot is interactive, but the images on the homepage could be improved. Overall, the original website is neither entirely good nor entirely bad, but it could be easier to use.
+
+Now I’m viewing Nisarg’s prototype, which was made in Figma. It supports language options and has a login page that can be opened by clicking ‘Login’. There are sliders for different features, a message box similar to an AI chatbox, a screen reader for users with visual impairments, and a search option.
+
+The prototype also has dropdown menus for sections such as Personal, Business, Deposits, Loans, Cards, Insurance, and Investments, similar to the original website. However, its UI is simpler and easier on the eyes. It looks much easier to use than the original website, which feels cluttered and visually overwhelming.
+
+# Nisarg Malhotra
+
+*PRN: 1262243207*
+
+Hi, my name is Nisarg Malhotra. I’m reviewing the original Punjab National Bank website. Although PNB is a national bank, its website feels cluttered. I couldn’t easily find where to apply for a loan or explore investment options, and the layout felt poorly organised. The chatbot appeared unexpectedly, and the social-media links and app links on the left side did not look well placed. The red-and-yellow colour scheme could work well, but I felt it was not used effectively.
+
+When I viewed Nisarg Ghule’s PNB prototype, the login option was immediately visible. On the original website, it took me about two minutes to find the login page. The prototype is interactive, and its windows are easy to open. The chatbot is positioned on the right and is more clearly identifiable as a chatbot.
+
+The ‘Apply for Account’ option and search bar make it easier to find things. Popular searches are also shown, which I did not notice on the original website. The login page uses a red background with some yellow, matching the website’s colour scheme; I felt this was missing from the original site. Overall, I preferred the prototype. Its images looked clearer and more realistic to me, whereas the original website’s images appeared low-quality and pixelated.
+
+# Archita Jha
+
+*PRN: 1262243200*
+
+Hello, my name is Archita Jha, and I’m reviewing Nisarg Ghule’s PNB website prototype against the original Punjab National Bank website.
+
+On the original PNB website, pop-ups appeared when I clicked around. The site felt cluttered and overwhelming, and I could not find the login page or navigate easily. It was difficult to locate the information I needed.
+
+In Nisarg’s prototype, the login page is easier to find, and the UI is minimal without feeling overwhelming. Applying for a loan was difficult to figure out on the original website, whereas the prototype makes this type of option easier to locate. The original website uses AI-generated-looking images in its hero section, while Nisarg’s prototype uses a photograph of a family. The prototype also includes sections for credit cards and home loans, along with a simple, clean animation.
+
+At first, I wasn’t sure whether the original website had a chatbot, but I later found it. It was difficult for me to locate on the original website, while it was easier to find and use in the prototype. The chatbot can help users navigate sections, and the search feature makes it easier to look for items such as ‘home loan’ or ‘accounts’. Creating an account also seems easier in the prototype than on the original PNB website.
+
+# Jashna Gupta
+
+*PRN: 1262243103*
+
+Hello, my name is Jashna Gupta. At first glance, the original Punjab National Bank website looks messy and confusing compared with my friend Nisarg Ghule’s prototype, which is simple and user-friendly.
+
+On the original website, the social-media links are placed on the left side, which does not look very appealing. Applying for something requires entering many details, and the website felt slow while I was filling them in. By comparison, Nisarg’s login page is easy to find in the top-right area and felt much faster and smoother to use.
+
+The savings-account option is visible on the prototype’s homepage, whereas it is harder to find on the original PNB website. The prototype presents its main information on the first page in a compact layout. On the original website, I had to scroll a lot to find content such as blogs, and there seemed to be many advertisements. Nisarg’s prototype felt less cluttered and easier to use. Overall, I think his website is much better than the original.
+
+# Siddhi Badgujar
+
+Hi, my name is Siddhi Badgujar. I really like the high-fidelity PNB prototype created by Nisarg Ghule. One thing that stands out is the colour coordination. The colours look more balanced and consistent, giving the interface a cleaner and more professional appearance than the original website.
+
+The prototype feels less cluttered and more organised, making it easier for users to find the information they need. On the original PNB website, moving the cursor over elements can open new menus even without clicking. This feels overwhelming and makes navigation difficult. I also like the layout of the prototype: its sections have enough space instead of placing too many elements together on one screen. This improves the visual hierarchy and makes the website more user-friendly. Thank you.
