@@ -4,7 +4,7 @@
 **Roll Number / PRN:** 1252243177
 
 
-#prototype link - https://chip-skid-52907446.figma.site/
+# high-fidelty wireframe link - https://chip-skid-52907446.figma.site/
 
 ## Study summary
 Five participants gave recorded think-aloud reviews comparing the original Punjab National Bank website with my modified Figma prototype. Each reviewed the overall experience rather than a single fixed task. Audio was converted to text and coded for recurring themes.
